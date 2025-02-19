@@ -1,4 +1,4 @@
-# Samenvatting Opdracht - Gelijkspanning en Wisselspanning
+# Samenvatting Gelijkspanning en Wisselspanning
 
 ## Symbolen
 - **Gelijkspanningsbron:** `+ ────| |──── -`
