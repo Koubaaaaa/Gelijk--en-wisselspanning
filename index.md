@@ -16,7 +16,7 @@
 ## Positieve en negatieve spanning
 - **Positieve spanning**: Stroom vloeit in een bepaalde richting.
 - **Negatieve spanning**: Stroom vloeit in de tegenovergestelde richting.
-- Bij wisselspanning wisselt de polariteit continu.
+- **Wisselspanning**: Bij wisselspanning wisselt de polariteit continu.
 - **Toestellen die op wisselstroom werken, functioneren normaal ongeacht de polariteit.**
 
 ## Spanning uit een stopcontact
