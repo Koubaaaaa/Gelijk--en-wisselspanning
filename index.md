@@ -9,9 +9,9 @@
 - **Wisselspanning**: Stroom verandert continu van richting en de spanning wisselt periodiek van polariteit.
 
 ### Toepassingen:
-`- Uit een **stopcontact** komt **wisselspanning**.`
-`- Uit een **batterij** komt **gelijkspanning**.`
-`- Een spanningsbron met **+ en -** is een **gelijkspanningsbron**.`
+- Uit een **stopcontact** komt **wisselspanning**.
+- Uit een **batterij** komt **gelijkspanning**.
+- Een spanningsbron met **+ en -** is een **gelijkspanningsbron**.
 
 ## Positieve en negatieve spanning
 - **Positieve spanning**: Stroom vloeit in een bepaalde richting.
