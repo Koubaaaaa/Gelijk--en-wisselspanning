@@ -16,8 +16,8 @@
 ## Positieve en negatieve spanning
 - **Positieve spanning**: Stroom vloeit in een bepaalde richting.
 - **Negatieve spanning**: Stroom vloeit in de tegenovergestelde richting.
-- **Wisselspanning**: Bij wisselspanning wisselt de polariteit continu.
-- **Toestellen die op wisselstroom werken, functioneren normaal ongeacht de polariteit.**
+- **Wisselspanning**:     Bij wisselspanning wisselt de polariteit continu.
+- **Wisselstroom:**:      Toestellen die op wisselstroom werken, functioneren normaal ongeacht de polariteit.
 
 ## Spanning uit een stopcontact
 - De spanning in België is **niet constant 230V**, maar wisselt tussen **+325V en -325V**.
