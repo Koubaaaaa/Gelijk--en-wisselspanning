@@ -1,49 +1,78 @@
 # Samenvatting Gelijkspanning en Wisselspanning
 
-## Symbolen
-- **Gelijkspanningsbron:** `+ ────| |──── -`
-- **Wisselspanningsbron:** `~`
+## Gelijkspanning
 
-## Verschil tussen gelijkspanning en wisselspanning
-- **Gelijkspanning**: Stroom vloeit in één richting en de spanning heeft een constante polariteit.
-- **Wisselspanning**: Stroom verandert continu van richting en de spanning wisselt periodiek van polariteit.
+### Wat is het?
+- **Gelijkspanning (DC)** levert een constante spanning met een vaste polariteit.
+- De stroom vloeit in één richting.
+- **Voorbeelden:** Batterijen, accu's.
 
-### Toepassingen:
-- Uit een **stopcontact** komt **wisselspanning**.
-- Uit een **batterij** komt **gelijkspanning**.
-- Een spanningsbron met **+ en -** is een **gelijkspanningsbron**.
+### Kenmerken
+- Constante spanning.
+- Positieve en negatieve polen zijn duidelijk gedefinieerd.
+- Geschikt voor elektronische apparaten die een stabiele stroomvoorziening vereisen.
 
-## Positieve en negatieve spanning
-- **Positieve spanning**: Stroom vloeit in een bepaalde richting.
-- **Negatieve spanning**: Stroom vloeit in de tegenovergestelde richting.
-- **Wisselspanning**:     Bij wisselspanning wisselt de polariteit continu.
-- **Wisselstroom:**:      Toestellen die op wisselstroom werken, functioneren normaal ongeacht de polariteit.
+### Symbool
+![Gelijkspanningsbron](https://upload.wikimedia.org/wikipedia/commons/4/47/DC_Supply_Symbol.png)
 
-## Spanning uit een stopcontact
-- De spanning in België is **niet constant 230V**, maar wisselt tussen **+325V en -325V**.
-- **230V is de effectieve waarde (RMS)**.
-- **Frequentie**: 50 Hertz → De spanning verandert **50 keer per seconde** van polariteit.
+---
 
-## Benodigdheden voor omzetting naar bruikbare spanning
-Om de spanning uit een stopcontact bruikbaar te maken voor een pc, smartphone of tablet, zijn drie onderdelen nodig:
+## Wisselspanning
 
-### 1. Transformator
-- **Functie**: Verlaagt of verhoogt de spanning naar een geschikt niveau (bijvoorbeeld van 230V AC naar een lagere wisselspanning).
-- **Symbool:** `────()────`
+### Wat is het?
+- **Wisselspanning (AC)** levert een spanning die periodiek van polariteit verandert.
+- De stroomrichting wisselt voortdurend.
+- **Voorbeelden:** Elektriciteitsnet in huizen (50 Hz in België).
 
-### 2. Gelijkrichter
-- **Functie**: Zet wisselspanning (AC) om in gelijkspanning (DC), noodzakelijk voor elektronische apparaten.
-- **Symbool:** `|~|>`
+### Kenmerken
+- Sinusvormige spanningsgolf.
+- Piekspanning varieert (bijv. tussen +325V en -325V voor een effectief 230V netspanning).
+- Geschikt voor huishoudelijke toestellen.
 
-### 3. Condensator en Spanningsregelaar
-- **Condensator**: Filtert spanningsschommelingen en maakt de gelijkspanning gladder.
-- **Symbool:** `| |`
-- **Spanningsregelaar**: Houdt de spanning constant, bijvoorbeeld 5V voor een smartphone.
-- **Symbool:** `───|>───`
+### Symbool
+![Wisselspanningsbron](https://upload.wikimedia.org/wikipedia/commons/0/0d/AC_Supply_Symbol.png)
 
-## Symbolen van de componenten
-- **Transformator:** `────()────`
-- **Gelijkrichter:** `|~|>`
-- **Condensator:** `| |`
-- **Spanningsregelaar:** `───|>───`
+---
+
+## Verschillen tussen Gelijkspanning en Wisselspanning
+| Kenmerk                | Gelijkspanning (DC)         | Wisselspanning (AC)         |
+|------------------------|-----------------------------|-----------------------------|
+| **Stroomrichting**    | Eén richting                | Wisselend                   |
+| **Spanningsverloop**  | Constant                    | Sinusvormig                 |
+| **Voorbeelden**       | Batterijen, accu's          | Stopcontact, elektriciteitsnet|
+| **Gebruik**           | Elektronica, mobiele apparaten | Huishoudelijke toestellen, verlichting |
+
+---
+
+## Grafiek van Wisselspanning
+- Sinusvormig verloop tussen +325V en -325V.
+- Frequentie van 50 Hz (50 keer per seconde volledige cyclus).
+- Positieve spanning: Elektronen stromen in één richting.
+- Negatieve spanning: Elektronen stromen in de tegenovergestelde richting.
+
+![Sinusvormige Wisselspanning](https://upload.wikimedia.org/wikipedia/commons/4/4c/Sinuskurve.png)
+
+---
+
+## Spanning uit het Stopcontact
+- Nominaal: 230 Volt (RMS-waarde).
+- Werkelijke spanning varieert continu.
+- RMS-waarde geeft het equivalente vermogen aan.
+
+---
+
+## Apparaten die Wisselspanning omzetten naar Gelijkspanning
+
+### Benodigde Onderdelen
+1. **Transformator:** Verlaagt de spanning naar een geschikt niveau.
+2. **Gelijkrichter:** Zet wisselspanning om in gelijkspanning.
+3. **Spanningsregelaar:** Zorgt voor een stabiele, constante spanning.
+
+### Symbolen
+- **Transformator:** ![Transformator](https://upload.wikimedia.org/wikipedia/commons/5/5d/Transformer_symbol.png)
+- **Gelijkrichter:** ![Gelijkrichter](https://upload.wikimedia.org/wikipedia/commons/4/46/Rectifier_symbol.png)
+- **Spanningsregelaar:** ![Spanningsregelaar](https://upload.wikimedia.org/wikipedia/commons/d/dc/Voltage_Regulator_Symbol.png)
+
+### Toepassing
+- Deze componenten zijn essentieel om wisselspanning bruikbaar te maken voor pc's, smartphones en tablets.
 
