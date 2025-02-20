@@ -69,9 +69,12 @@
 3. **Spanningsregelaar:** Zorgt voor een stabiele, constante spanning.
 
 ### Symbolen
-- **Transformator:** ![Transformator](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRc_eaQ16gDnIT78ANMRWhRLhT9yg1h2jW0cg&s)
-- **Gelijkrichter:** ![Gelijkrichter](https://www.uploadarchief.net/files/download/brugcel.jpg)
-- **Spanningsregelaar:** ![Spanningsregelaar](https://static.vecteezy.com/ti/gratis-vector/p1/10043746-spanningsregelaar-ic-met-symbool-eps-10-gratis-vector.jpg)
+- **Transformator:**
+  ![Transformator](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRc_eaQ16gDnIT78ANMRWhRLhT9yg1h2jW0cg&s)
+- **Gelijkrichter:**
+  ![Gelijkrichter](https://www.uploadarchief.net/files/download/brugcel.jpg)
+- **Spanningsregelaar:**
+  ![Spanningsregelaar](https://www.shutterstock.com/image-vector/illustration-voltage-regulator-tool-vector-260nw-2321586673.jpg)
 
 ### Toepassing
 - Deze componenten zijn essentieel om wisselspanning bruikbaar te maken voor pc's, smartphones en tablets.
