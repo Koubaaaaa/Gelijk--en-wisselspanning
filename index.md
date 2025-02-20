@@ -13,7 +13,7 @@
 - Geschikt voor elektronische apparaten die een stabiele stroomvoorziening vereisen.
 
 ### Symbool
-![Gelijkspanningsbron](https://upload.wikimedia.org/wikipedia/commons/4/47/DC_Supply_Symbol.png)
+![Gelijkspanningsbron](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSdbW9auqnmTM-HPyOuqUXmOWmAEmYyjNtikA&s)
 
 ---
 
@@ -30,7 +30,7 @@
 - Geschikt voor huishoudelijke toestellen.
 
 ### Symbool
-![Wisselspanningsbron](https://upload.wikimedia.org/wikipedia/commons/0/0d/AC_Supply_Symbol.png)
+![Wisselspanningsbron](https://set.kuleuven.be/voorkennis/blik-op-fysica/cursus/pictures/8_1_2_DC.png)
 
 ---
 
@@ -50,7 +50,7 @@
 - Positieve spanning: Elektronen stromen in één richting.
 - Negatieve spanning: Elektronen stromen in de tegenovergestelde richting.
 
-![Sinusvormige Wisselspanning](https://upload.wikimedia.org/wikipedia/commons/4/4c/Sinuskurve.png)
+![Sinusvormige Wisselspanning](https://upload.wikimedia.org/wikipedia/commons/4/4c/230volt_50Hz.svg)
 
 ---
 
@@ -69,9 +69,9 @@
 3. **Spanningsregelaar:** Zorgt voor een stabiele, constante spanning.
 
 ### Symbolen
-- **Transformator:** ![Transformator](https://upload.wikimedia.org/wikipedia/commons/5/5d/Transformer_symbol.png)
-- **Gelijkrichter:** ![Gelijkrichter](https://upload.wikimedia.org/wikipedia/commons/4/46/Rectifier_symbol.png)
-- **Spanningsregelaar:** ![Spanningsregelaar](https://upload.wikimedia.org/wikipedia/commons/d/dc/Voltage_Regulator_Symbol.png)
+- **Transformator:** ![Transformator](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRc_eaQ16gDnIT78ANMRWhRLhT9yg1h2jW0cg&s)
+- **Gelijkrichter:** ![Gelijkrichter](https://www.uploadarchief.net/files/download/brugcel.jpg)
+- **Spanningsregelaar:** ![Spanningsregelaar](https://static.vecteezy.com/ti/gratis-vector/p1/10043746-spanningsregelaar-ic-met-symbool-eps-10-gratis-vector.jpg)
 
 ### Toepassing
 - Deze componenten zijn essentieel om wisselspanning bruikbaar te maken voor pc's, smartphones en tablets.
